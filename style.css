@@ -2,7 +2,7 @@
   --main-bg-color: #edf5fe;
   --light-blue: #03a9f4;
   --border-color: #0288d147;
-  --container-width: 400px;
+  --container-width: 500px;
 }
 
 body {
@@ -51,7 +51,7 @@ body,
   min-height: 200px;
   border: 2px dashed var(--border-color);
   border-radius: 10px;
-  margin: 20px;
+  margin: 30px;
   transition: 0.2s all ease-in;
 }
 
