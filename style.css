@@ -44,6 +44,10 @@ body {
   background-size: contain;
 }
 
+.upload-container :hover {
+  padding: 10px;
+  transition: 0.5s ease-in-out;
+}
 body,
 .upload-container,
 .drop-zone {
